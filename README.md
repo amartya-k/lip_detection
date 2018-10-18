@@ -1,6 +1,6 @@
 # Lip detection
 
-## Prequisits
+## Prerequisites
 
 1. **Python 3**
 2. **Libraries:** opencv, dlib, numpy,imutils.

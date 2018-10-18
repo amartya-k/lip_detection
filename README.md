@@ -13,7 +13,7 @@
 2. Open terminal and navigate to the repo using cd command.
 3. Type the following command: ` python3 text.py --shape-predictor shape_predictor_68_face_landmarks.dat --image images/image1.jpg`
 
-## Some sample outputs:
+## Sample Output:
 
 
 ![Tony Stark](/sample_output1.png)

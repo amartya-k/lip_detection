@@ -1,6 +1,6 @@
 # Lip detection
 
-#Prequisits
+## Prequisits
 
 1. **Python 3**
 2. **Libraries:** opencv, dlib, numpy,imutils.
@@ -8,7 +8,7 @@
    submodule:  `pip install --upgrade imutils`
    
    
-# Instructions:
+## Instructions:
 1. Clone the repo
 2. Open terminal and navigate to the repo using cd command.
 3. Type the following command: ` python3 text.py --shape-predictor shape_predictor_68_face_landmarks.dat --image images/image1.jpg`
